@@ -1,7 +1,7 @@
 # QA Automation Portfolio
 
 ![Playwright Tests](https://github.com/izzatzaidi/qa-automation-portfolio/actions/workflows/playwright.yml/badge.svg)
-
+![Test report](docs/report.png)
 End-to-end UI and API test automation built with Playwright and TypeScript.
 
 - **UI tests** run against [Sauce Demo](https://www.saucedemo.com), a demo e-commerce site
